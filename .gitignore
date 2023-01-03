@@ -1,0 +1,6 @@
+.idea/
+*.name
+*misc
+*vcs
+*workplace
+out/
